@@ -1,10 +1,10 @@
 # XPATHS
 
-game_code_input = "/html/body/div/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/div/form/input"
-join_game_button_1 = "/html/body/div/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/div/div"
+game_code_input = "//*[@id=\"content\"]/div/div/div/div/div/input"
+join_game_button_1 = "//*[@id=\"content\"]/div/div/div/div/div/div"
 
-name_input = "/html/body/div[1]/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/div/form/input"
-join_game_button_2 = "/html/body/div[1]/div/div/div[2]/div[1]/div/div/div[2]/div/div/div/div/div"
+name_input = "//*[@id=\"content\"]/div/div/div/div/div/input"
+join_game_button_2 = "//*[@id=\"content\"]/div/div/div/div/div/div"
 
 three_lines_button = "/html/body/div[1]/div/div/div[2]/div[1]/div/div/div[1]/div[1]/div/button[1]"
 money_text = "/html/body/div[1]/div/div/div[2]/div[1]/div/div/div[1]/div[1]/div/div[2]/div[2]/div/div"
